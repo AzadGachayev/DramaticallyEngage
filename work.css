@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+.header {
+    padding: 20px 0;
+    background:#9acd32 ;
+}
+.header h1, .header p{
+    color:greenyellow;
+}
+.header p{
+    margin: 20px 0;
+}
+.orta {
+    width: 960px;
+    margin:auto;
+}
+.header input{
+    padding: 12px 20px;
+}
+
+.header h1 i{
+    margin-right: 5px;
+}
+.header input:hover{
+    border: none;
+    background: greenyellow;
+}
+.qutular h1 span{
+    color: #999;
+    font-size: 20px;
+} 
+.box {
+    width: 31.7%;
+   
+    float: left;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+
+img{
+    width: 100%;
+}
+.qutular {
+    margin: 50px 0;
+    
+
+}
